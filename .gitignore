@@ -1,5 +1,8 @@
 vendor/
 node_modules/
+.idea/
+bower_components
+Homestead.yaml
 
 # Laravel 4 specific
 bootstrap/compiled.php
